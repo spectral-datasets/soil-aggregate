@@ -18,7 +18,7 @@ soil properties and soil spectral data, provided here will allow the analyses de
  
 * [raw](https://github.com/spectral-datasets/soil-aggregate/releases/tag/raw)
 
-  * [Soil analysis and spectral data.xlsx](https://github.com/spectral-datasets/soil-aggregate/releases/download/raw/Soil analysis and spectral data.xlsx) 
+  * [Soil analysis and spectral data.xlsx](https://github.com/spectral-datasets/soil-aggregate/releases/download/raw/Soil%20analysis%20and%20spectral%20data.xlsx) 
 
 
 ## Citation
